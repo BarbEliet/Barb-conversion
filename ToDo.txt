@@ -4,4 +4,5 @@ Conversion functions needed:
 -gallons to liters
 -hours to minutes
 -feet to inches
--degrees to radiants
+-degrees to radians
+-celsius to farenheit
